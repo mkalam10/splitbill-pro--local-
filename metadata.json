@@ -1,0 +1,8 @@
+
+{
+  "name": "SplitBill Pro (Local)",
+  "description": "An intelligent bill splitting application that uses OCR to scan receipts. Operates entirely in the browser using LocalStorage for data persistence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
