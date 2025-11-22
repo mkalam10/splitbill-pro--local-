@@ -105,7 +105,7 @@ const Auth: React.FC<AuthProps> = ({ onLoginSuccess }) => {
                 </p>
             </div>
              <footer className="text-center mt-12 text-gray-500 text-sm">
-                <p>Powered by Gemini API. Built with React & TypeScript.</p>
+                <p>Dibuat oleh Kelompok 24</p>
             </footer>
         </div>
     );

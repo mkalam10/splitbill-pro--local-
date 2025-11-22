@@ -80,7 +80,7 @@ const OcrScanner: React.FC<OcrScannerProps> = ({ onScanComplete, onCancel }) => 
                     {isLoading && (
                         <div className="text-center p-4">
                             <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-green-500 mx-auto"></div>
-                            <p className="mt-2 text-gray-600">Scanning receipt with Gemini...</p>
+                            <p className="mt-2 text-gray-600">sabar...</p>
                         </div>
                     )}
 
